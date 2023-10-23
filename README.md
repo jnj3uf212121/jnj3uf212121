@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jhayda! <br/></h1>
+<h1>Hi, I'm Jhayda! Welcome to my GitHub portfolio. Here, I showcase my hands-on experiences, notably the construction of a Security Operations Center (SOC) and honeynet in Azure, complemented by my academic insights in cybersecurity policy and compliance. <br/></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
