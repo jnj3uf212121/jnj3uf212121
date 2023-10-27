@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jnj3uf212121/AzureSOC)
+  - [OpenVAS Vulnerability Management](https://github.com/jnj3uf212121/OpenVas-VulnerbilityManagement)
 
 <h2> 🤳 Connect with me:</h2>
 
