@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jnj3uf212121/AzureSOC)
   - [Conducting a security Audit for Botium Toys](https://github.com/jnj3uf212121/Botium-Toys-Security-Audit)
 
