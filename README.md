@@ -4,7 +4,7 @@
 
 - <b>Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jnj3uf212121/AzureSOC)
-  - [Conducting a security Audit for Botium Toys](https://github.com/jnj3uf212121/Botium-Toys-Security-Audit)
+  
 
 
 <h2> 🤳 Connect with me:</h2>
