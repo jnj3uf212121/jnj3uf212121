@@ -7,6 +7,12 @@
   - [Azure Active Directory: Logging and Monitoring](https://github.com/jnj3uf212121/jnj3uf212121-Azure-Active-Directory-Logging-and-Monitoring)
   - [Microsoft Sentinel (SIEM)](https://github.com/jnj3uf212121/Microsoft-Sentinel-SIEM-)
   - [Secure Cloud Configuration](https://github.com/jnj3uf212121/Secure-Cloud-Configuration)
+ 
+- <b>Building a Security Lab in VirtualBox</b>
+  - [Building a pfSense VM for Our VirtualBox Cyber Range]()
+  - [Importing Kali Using the Official VirtualBox Image]()
+  - []()
+  - []()
 
 
   
