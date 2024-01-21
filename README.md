@@ -4,7 +4,7 @@
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
   - [Creating Virtual Machines and Installing MS SQL Server](https://github.com/jnj3uf212121/AzureSOC)
-  - [Azure Active Directory: Logging and Monitoring](ps://github.com/jnj3uf212121/AzureSOC)
+  - [Azure Active Directory: Logging and Monitoring](https://github.com/jnj3uf212121/jnj3uf212121-Azure-Active-Directory-Logging-and-Monitoring)
   - [Microsoft Sentinel (SIEM)](https://github.com/jnj3uf212121/AzureSOC)
   - [Secure Cloud Configuration](https://github.com/jnj3uf212121/AzureSOC)
 
