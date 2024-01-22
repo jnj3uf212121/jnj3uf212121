@@ -10,7 +10,7 @@
  
 - <b>Vulnerability Management Labs</b>
 - [Nessus]
-- OpenVas]
+- [OpenVas]
   
 - <b>Azure Active Directory Lab</b>
 - [Windows Server 2022 Setup]
