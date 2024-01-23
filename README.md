@@ -15,7 +15,7 @@
 - [Nessus]
 - [OpenVas]
   
-- <b>Azure Active Directory Lab</b>
+- <b>Active Directory Lab</b>
 - [Windows Server 2022 Setup]
 - [Configuring Active Directory Services]
 
