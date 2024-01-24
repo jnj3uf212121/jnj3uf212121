@@ -12,12 +12,12 @@
   - [Secure Cloud Configuration](https://github.com/jnj3uf212121/Secure-Cloud-Configuration)
  
 - <b>Vulnerability Management Labs</b>
-- [Nessus]
-- [OpenVas]
+  - [Nessus]
+  - [OpenVas]
   
 - <b>Active Directory Lab</b>
-- [Windows Server 2022 Setup](https://github.com/jnj3uf212121/Windows-Server-2022-Setup/blob/main/README.md)
-- [Configuring Active Directory Services](https://github.com/jnj3uf212121/Configuring-Active-Directory-Services)
+  - [Windows Server 2022 Setup](https://github.com/jnj3uf212121/Windows-Server-2022-Setup/blob/main/README.md)
+  - [Configuring Active Directory Services](https://github.com/jnj3uf212121/Configuring-Active-Directory-Services)
 
 
   
