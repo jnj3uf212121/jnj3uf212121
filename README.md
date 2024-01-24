@@ -16,7 +16,7 @@
 - [OpenVas]
   
 - <b>Active Directory Lab</b>
-- [Windows Server 2022 Setup]
+- [Windows Server 2022 Setup](https://github.com/jnj3uf212121/Windows-Server-2022-Setup/blob/main/README.md)
 - [Configuring Active Directory Services]
 
 
