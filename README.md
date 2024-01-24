@@ -9,7 +9,12 @@
   - [Creating Virtual Machines and Installing MS SQL Server](https://github.com/jnj3uf212121/AzureSOC)
   - [Azure Active Directory: Logging and Monitoring](https://github.com/jnj3uf212121/jnj3uf212121-Azure-Active-Directory-Logging-and-Monitoring)
   - [Microsoft Sentinel (SIEM)](https://github.com/jnj3uf212121/Microsoft-Sentinel-SIEM-)
+    - [Incident Response Report 1: Brute Force Success (Windows)]
+    - [Incident Response Report 2: Possible Privilege Escalation}
+    - [Incident Response Report 3: Brute Force Success (Linux)]
+    - [Incident Response Report 4: Possible Malware Outbreak]
   - [Secure Cloud Configuration](https://github.com/jnj3uf212121/Secure-Cloud-Configuration)
+
  
 - <b>Vulnerability Management Labs</b>
   - [Nessus](https://github.com/jnj3uf212121/Nessus)
