@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Creating a Live SOC / Honeynet in Azure</b>
+- <b> [Creating a Live SOC / Honeynet in Azure](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure) </b>
   - [Incident Response Report 1: Brute Force Success (Windows)]
   - [Incident Response Report 2: Possible Privilege Escalation]
   - [Incident Response Report 3: Brute Force Success (Linux)]
