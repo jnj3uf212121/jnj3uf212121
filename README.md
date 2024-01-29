@@ -6,8 +6,7 @@
 - <b> [Creating a Live SOC / Honeynet in Azure](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure) </b>
   - [Incident Response Report 1: Brute Force Success (Windows)](https://github.com/jnj3uf212121/Incident-Response-Report-1-Brute-Force-Success-Windows-/blob/main/README.md)
   - [Incident Response Report 2: Possible Privilege Escalation]
-  - [Incident Response Report 3: Brute Force Success (Linux)]
-  - [Incident Response Report 4: Possible Malware Outbreak]
+  - [Incident Response Report 3: Possible Malware Outbreak]
   
 
  
