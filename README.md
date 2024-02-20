@@ -1,7 +1,7 @@
 <h1>
 <br/></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Project Reports:</h2>
 
 - <b> [Creating a Live SOC / Honeynet in Azure](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure) </b>
 
