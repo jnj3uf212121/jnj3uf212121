@@ -4,9 +4,9 @@
 <h2>👨‍💻 Cybersecurity Project Reports:</h2>
 
 - <b> Creating a Live SOC / Honeynet in Azure </b>
- - [LOGGING AND MONITORING]
- - [MICROSOFT SENTINEL (SIEM)]
- - [SECURE CLOUD CONFIGURATION]
+    - [LOGGING AND MONITORING]
+    - [MICROSOFT SENTINEL (SIEM)]
+    - [SECURE CLOUD CONFIGURATION]
 
  
 - <b>Vulnerability Management Labs</b>
