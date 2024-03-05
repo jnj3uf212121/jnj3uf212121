@@ -15,7 +15,7 @@
   
 - <b>System Administration Projects</b>
   - [Setting Up a Homelab with Ubuntu (Linux Administration)](https://github.com/jnj3uf212121/Linux-Admin-Project)
-  - [Active Directory Homelab Setup Documentation](https://github.com/jnj3uf212121/Windows-Server-2022-Setup)
+  - [Active Directory Homelab Setup Documentation](https://github.com/jnj3uf212121/Active-Directory-Project)
 
 
   
