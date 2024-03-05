@@ -10,7 +10,7 @@
  
 - <b>Vulnerability Management and Log management and Analysis Labs</b>
   - [Nessus](https://github.com/jnj3uf212121/Nessus)
-  - [Splunk](https://github.com/jnj3uf212121/OpenVas)
+  - [Splunk](https://github.com/jnj3uf212121/Splunk-Incident-Response-Project)
 
   
 - <b>System Administration Projects</b>
