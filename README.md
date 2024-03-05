@@ -8,7 +8,7 @@
     
 
  
-- <b>Vulnerability Management and Log management and Analysis Labs</b>
+- <b>Vulnerability Management / Log Management and Analysis Labs</b>
   - [Nessus](https://github.com/jnj3uf212121/Nessus-Vulnerability-Management-Project)
   - [Splunk](https://github.com/jnj3uf212121/Splunk-Incident-Response-Project)
 
