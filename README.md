@@ -3,19 +3,19 @@
 
 <h2>👨‍💻 Cybersecurity Project Reports:</h2>
 
-- <b> Creating a Live SOC / Honeynet in Azure </b>
-    - [LOGGING AND MONITORING]
-    - [MICROSOFT SENTINEL (SIEM)]
-    - [SECURE CLOUD CONFIGURATION]
+- <b> SOC Analyst Project </b>
+    - [Creating Azure SOC and Implementing Honeynet]
+    
 
  
-- <b>Vulnerability Management Labs</b>
+- <b>Vulnerability Management and Log management and Analysis Labs</b>
   - [Nessus](https://github.com/jnj3uf212121/Nessus)
+  - [Splunk]
 
   
-- <b>Active Directory Lab</b>
-  - [Windows Server 2022 Setup](https://github.com/jnj3uf212121/Windows-Server-2022-Setup/blob/main/README.md)
-  - [Configuring Active Directory Services](https://github.com/jnj3uf212121/Configuring-Active-Directory-Services)
+- <b>System Administration Projects</b>
+  - [Active Directory Homelab Setup Documentation]
+  - [Setting Up a Homelab with Ubuntu (Linux Administration)]
 
 
   
