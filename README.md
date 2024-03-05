@@ -4,18 +4,18 @@
 <h2>👨‍💻 Cybersecurity Project Reports:</h2>
 
 - <b> SOC Analyst Project </b>
-    - [Creating Azure SOC and Implementing Honeynet]
+    - [Creating Azure SOC and Implementing Honeynet](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure)
     
 
  
 - <b>Vulnerability Management and Log management and Analysis Labs</b>
   - [Nessus](https://github.com/jnj3uf212121/Nessus)
-  - [Splunk]
+  - [Splunk](https://github.com/jnj3uf212121/OpenVas)
 
   
 - <b>System Administration Projects</b>
   - [Active Directory Homelab Setup Documentation](https://github.com/jnj3uf212121/Configuring-Active-Directory-Services)
-  - [Setting Up a Homelab with Ubuntu (Linux Administration)]
+  - [Setting Up a Homelab with Ubuntu (Linux Administration)](https://github.com/jnj3uf212121/Windows-Server-2022-Setup)
 
 
   
