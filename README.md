@@ -18,7 +18,7 @@
   - [Active Directory Homelab Setup Documentation](https://github.com/jnj3uf212121/Active-Directory-Project)
 
 - <b>Network Engineer Projects</b>
-    - [Homelab Network Documentation]
+    - [Homelab Network Documentation](https://github.com/jnj3uf212121/Homelab-Project)
   
 
 
