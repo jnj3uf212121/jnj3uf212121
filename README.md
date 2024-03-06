@@ -9,9 +9,8 @@
 
  
 - <b>Vulnerability Management / Log Management and Analysis Labs</b>
-  - [Log and Vulnerability Management with Nessus and Splunk
-](https://github.com/jnj3uf212121/Nessus-Vulnerability-Management-Project)
-  - 
+  - [Log and Vulnerability Management with Nessus and Splunk](https://github.com/jnj3uf212121/Nessus-Vulnerability-Management-Project)
+    
 
   
 - <b>System Administration Projects</b>
