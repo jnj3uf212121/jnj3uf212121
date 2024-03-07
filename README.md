@@ -14,8 +14,8 @@
 
   
 - <b>System Administration Projects</b>
-  - [Setting Up a Homelab with Ubuntu (Linux Administration)](https://github.com/jnj3uf212121/Linux-Admin-Project)
-  - [Active Directory Homelab Setup Documentation](https://github.com/jnj3uf212121/Active-Directory-Project)
+  - [Creating and Ubuntu Server)](https://github.com/jnj3uf212121/Linux-Admin-Project)
+  - [Windows Active Directory](https://github.com/jnj3uf212121/Active-Directory-Project)
 
 - <b>Network Engineer Projects</b>
     - [Homelab Network Documentation](https://github.com/jnj3uf212121/Homelab-Project)
