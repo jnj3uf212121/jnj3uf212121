@@ -8,8 +8,8 @@
     
 
  
-- <b>Vulnerability Management / Log Management and Analysis Labs</b>
-  - [Log and Vulnerability Management with Nessus and Splunk](https://github.com/jnj3uf212121/Log-and-Vulnerability-Management-with-Nessus-and-Splunk)
+- <b>Vulnerability Management </b>
+  - [Vulnerability Management with Nessus](https://github.com/jnj3uf212121/Log-and-Vulnerability-Management-with-Nessus-and-Splunk)
     
 
   
