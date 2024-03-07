@@ -6,9 +6,6 @@
 - <b> SOC Analyst Project </b>
     - [Creating Azure SOC and Implementing Honeynet](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure)
     
-- <b>Vulnerability Management </b>
-  - [Vulnerability Management with Nessus](https://github.com/jnj3uf212121/Vulnerability-Management-with-Nessus)
-    
 - <b>Homelab</b>
   - [Creating and Ubuntu Server](https://github.com/jnj3uf212121/Linux-Admin-Project)
   - [Windows Active Directory](https://github.com/jnj3uf212121/Active-Directory-Project)
