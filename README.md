@@ -6,21 +6,13 @@
 - <b> SOC Analyst Project </b>
     - [Creating Azure SOC and Implementing Honeynet](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure)
     
-
- 
 - <b>Vulnerability Management </b>
   - [Vulnerability Management with Nessus](https://github.com/jnj3uf212121/Vulnerability-Management-with-Nessus)
     
-
-  
-- <b>System Administration Projects</b>
+- <b>Homelab</b>
   - [Creating and Ubuntu Server)](https://github.com/jnj3uf212121/Linux-Admin-Project)
   - [Windows Active Directory](https://github.com/jnj3uf212121/Active-Directory-Project)
-
-- <b>Network Engineer Projects</b>
-    - [Homelab Network Documentation](https://github.com/jnj3uf212121/Homelab-Project)
-  
-
+  - Home Network Topology
 
 <h2> 🤳 Connect with me:</h2>
 
