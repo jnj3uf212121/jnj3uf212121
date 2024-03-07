@@ -10,7 +10,7 @@
   - [Vulnerability Management with Nessus](https://github.com/jnj3uf212121/Vulnerability-Management-with-Nessus)
     
 - <b>Homelab</b>
-  - [Creating and Ubuntu Server)](https://github.com/jnj3uf212121/Linux-Admin-Project)
+  - [Creating and Ubuntu Server](https://github.com/jnj3uf212121/Linux-Admin-Project)
   - [Windows Active Directory](https://github.com/jnj3uf212121/Active-Directory-Project)
   - [Home Network Topology](https://github.com/jnj3uf212121/NETWORK-TOPOLOGY/blob/main/README.md)
 
