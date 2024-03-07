@@ -9,7 +9,7 @@
 - <b>Homelab</b>
   - [Creating and Ubuntu Server](https://github.com/jnj3uf212121/Linux-Admin-Project)
   - [Windows Active Directory](https://github.com/jnj3uf212121/Active-Directory-Project)
-  - [Home Network Topology](https://github.com/jnj3uf212121/NETWORK-TOPOLOGY/blob/main/README.md)
+  - [Home Network Topology](https://github.com/jnj3uf212121/NETWORK-SETUP/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
