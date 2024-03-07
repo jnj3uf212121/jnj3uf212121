@@ -9,7 +9,7 @@
 
  
 - <b>Vulnerability Management </b>
-  - [Vulnerability Management with Nessus](https://github.com/jnj3uf212121/Log-and-Vulnerability-Management-with-Nessus-and-Splunk)
+  - [Vulnerability Management with Nessus](https://github.com/jnj3uf212121/Vulnerability-Management-with-Nessus)
     
 
   
