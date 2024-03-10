@@ -7,7 +7,6 @@
     - [Creating Azure SOC and Implementing Honeynet](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure)
     
 - <b>Homelab</b>
-  - [Creating and Ubuntu Server](https://github.com/jnj3uf212121/Linux-Admin-Project)
   - [Windows Active Directory](https://github.com/jnj3uf212121/Active-Directory-Project)
   - [Home Network Topology](https://github.com/jnj3uf212121/NETWORK-SETUP/blob/main/README.md)
 
