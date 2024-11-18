@@ -3,10 +3,10 @@
 
 <h2>👨‍💻 Cybersecurity Project Reports:</h2>
 
-- <b> SOC Analyst Project </b>
+- <b> SECURITY+, CYSA+, PENTEST+ </b>
     - [Creating Azure SOC and Implementing Honeynet](https://github.com/jnj3uf212121/Creating-a-Live-SOC-Honeynet-in-Azure)
     
-- <b>Homelab</b>
+- <b> NETWORK+ </b>
   - [Educational Network Infrastructure Deployment: A Windows Server 2019 and Windows 10 Integration Project](https://github.com/jnj3uf212121/Educational-Network-Infrastructure-Deployment-A-Windows-Server-2019-and-Windows-10-Integration-Proj)
   - [Home Network Topology](https://github.com/jnj3uf212121/NETWORK-SETUP/blob/main/README.md)
 
