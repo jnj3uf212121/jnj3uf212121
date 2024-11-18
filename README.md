@@ -8,7 +8,8 @@
     
 - <b> NETWORK+ </b>
   - [Educational Network Infrastructure Deployment: A Windows Server 2019 and Windows 10 Integration Project](https://github.com/jnj3uf212121/Educational-Network-Infrastructure-Deployment-A-Windows-Server-2019-and-Windows-10-Integration-Proj)
-  - [Home Network Topology](https://github.com/jnj3uf212121/NETWORK-SETUP/blob/main/README.md)
+  - <b> CISCO PACKET TRACER LABS <b>
+      - [SOHO NETWORK] ()
 
 <h2> 🤳 Connect with me:</h2>
 
