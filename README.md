@@ -9,7 +9,7 @@
 - <b> NETWORK+ </b>
   - [Educational Network Infrastructure Deployment: A Windows Server 2019 and Windows 10 Integration Project](https://github.com/jnj3uf212121/Educational-Network-Infrastructure-Deployment-A-Windows-Server-2019-and-Windows-10-Integration-Proj)
   - <b> CISCO PACKET TRACER LABS <b>
-      - [SOHO NETWORK] ()
+      - [SOHO NETWORK] (https://github.com/jnj3uf212121/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO)
 
 <h2> 🤳 Connect with me:</h2>
 
